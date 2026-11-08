@@ -16,7 +16,7 @@ Website portofolio profesional modern, minimalis, dan berkinerja tinggi untuk **
 - **8 Bagian Lengkap**:
   1. **Header & Navbar**: Logo teks dan 6 menu navigasi utama (*About, Experience, Projects, Achievements, Certifications, Contact*).
   2. **Hero Section**: Sapaan ramah, heading, sub-heading, *metric highlights*, tombol CTA ganda, dan kartu foto profil berestetika teknologi dengan status *Open for Opportunities*.
-  3. **About Me**: Latar belakang analitis ilmiah (Fisika IPB University), keahlian *data analytics* (Power BI), dan integrasi alur kerja AI (Claude).
+  3. **About Me**: Latar belakang analitis ilmiah (Fisika IPB University), keahlian *data analytics*, dan integrasi alur kerja AI (Claude).
   4. **Experience Timeline**: Rekam jejak kepemimpinan operasional di HaloTech Academy dan koordinasi program di Dicoding Indonesia dalam format *timeline* vertikal semantik.
   5. **Projects Grid**: 8 proyek terapan mencakup riset skripsi *Variational Quantum Classifier* (VQC Higgs Boson), model *Machine Learning* prediktif, sistem rekomendasi, NLP, hingga aplikasi *Computer Vision* (Turtlify).
   6. **Achievements**: Kartu penghargaan dengan ikon medali/piala (*Juara 3 TFUG Surabaya NLP Olympiad* & *Finalis Top 50 Bangkit Capstone*).
